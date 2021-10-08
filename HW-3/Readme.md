@@ -1,3 +1,3 @@
-HW - 3 of Information Retrieval Course.
+HW - 3/Project of Information Retrieval Course.
 
 TOPICAL CRAWLER
