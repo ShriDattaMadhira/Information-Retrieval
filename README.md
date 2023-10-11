@@ -1,4 +1,3 @@
-# Information-Retrieval-CS6200
-Codes from Information Retrieval course.
+# Information-Retrieval
+Codes from Information Retrieval Coursera course.
 
-https://course.ccs.neu.edu/cs6200f20/index.html
